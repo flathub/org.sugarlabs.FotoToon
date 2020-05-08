@@ -26,8 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/fototoon-activity.git",
-                    "commit": "e3d8c148d0317399bdfc1606b7a4ef4a3ced71dd",
-                    "tag": "v24"
+                    "commit": "6851b825161b580c24cb1193aa3da88d08ae561e",
+                    "tag": "v25"
                 },
                 {
                     "type": "patch",
@@ -35,19 +35,7 @@
                 },
                 {
                     "type": "patch",
-                    "path": "fototoon-fix-title.patch"
-                },
-                {
-                    "type": "patch",
                     "path": "fototoon-fix-reload.patch"
-                },
-                {
-                    "type": "patch",
-                    "path": "fototoon-fix-boxes.patch"
-                },
-                {
-                    "type": "patch",
-                    "path": "fototoon-fix-texts.patch"
                 },
                 {
                     "type": "patch",
