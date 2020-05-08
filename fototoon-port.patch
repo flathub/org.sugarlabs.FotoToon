@@ -1,13 +1,3 @@
-From 3d5baa71f1f65f5084e430f6261ae88b1ae7acbc Mon Sep 17 00:00:00 2001
-From: Martin Abente Lahaye <tch@sugarlabs.org>
-Date: Thu, 9 Jan 2020 23:19:10 -0300
-Subject: [PATCH 1/4] port
-
----
- historietaactivity.py | 99 +++++++++++++------------------------------
- toolbar.py            | 32 +++-----------
- 2 files changed, 37 insertions(+), 94 deletions(-)
-
 diff --git a/historietaactivity.py b/historietaactivity.py
 index 0c33c84..cc189fc 100644
 --- a/historietaactivity.py
@@ -257,6 +247,4 @@ index 32407af..2e2fe38 100644
  
  
  class TextToolbar(Gtk.Toolbar):
--- 
-2.23.0
 
