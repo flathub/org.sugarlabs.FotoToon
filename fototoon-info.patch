@@ -1,8 +1,8 @@
 diff --git a/activity/activity.info b/activity/activity.info
-index e83179a..3288f28 100644
+index 265fce1..496b0f5 100644
 --- a/activity/activity.info
 +++ b/activity/activity.info
-@@ -1,14 +1,22 @@
+@@ -1,13 +1,22 @@
  [Activity]
  name = FotoToon
 -bundle_id = org.eq.FotoToon
@@ -10,9 +10,9 @@ index e83179a..3288f28 100644
  icon = historieta
  exec = sugar-activity3 historietaactivity.HistorietaActivity
  show_launcher = yes
- activity_version = 25
-+release_date = 2020-02-19
- host_version = 2
+ activity_version = 26
++release_date = 2021-02-08
++host_version = 2
  mime_types = application/x-fototoon-activity;
 -summary = Interested in telling a story? Easy! Use your pictures and your imagination to create your own comics!
  categories = media language art
@@ -27,4 +27,3 @@ index e83179a..3288f28 100644
 +update_contact = tch@sugarlabs.org
 +developer_name = Sugar Labs Community
 +screenshots = https://raw.githubusercontent.com/sugarlabs/fototoon-activity/master/screenshots/en/1.png https://raw.githubusercontent.com/sugarlabs/fototoon-activity/master/screenshots/en/2.png https://raw.githubusercontent.com/sugarlabs/fototoon-activity/master/screenshots/en/3.png
-
