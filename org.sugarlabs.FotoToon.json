@@ -1,9 +1,9 @@
 {
     "app-id": "org.sugarlabs.FotoToon",
     "base": "org.sugarlabs.BaseApp",
-    "base-version": "20.04",
+    "base-version": "21.04",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.36",
+    "runtime-version": "40",
     "sdk": "org.gnome.Sdk",
     "separate-locales": false,
     "command": "sugarapp",
@@ -26,8 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/fototoon-activity.git",
-                    "commit": "6851b825161b580c24cb1193aa3da88d08ae561e",
-                    "tag": "v25"
+                    "commit": "8ced697c8955f1a98cf50a1e0e0e29631ba692f5",
+                    "tag": "v26"
                 },
                 {
                     "type": "patch",
