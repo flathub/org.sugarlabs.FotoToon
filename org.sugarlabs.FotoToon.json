@@ -26,8 +26,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/fototoon-activity.git",
+                    "tag": "v26",
                     "commit": "8ced697c8955f1a98cf50a1e0e0e29631ba692f5",
-                    "tag": "v26"
+                    "x-checker-data": {
+                        "type": "git",
+                        "tag-pattern": "^v([\\d.]+)$"
+                    }
                 },
                 {
                     "type": "patch",
