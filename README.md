@@ -6,10 +6,17 @@ To know more refer https://github.com/sugarlabs/fototoon-activity
 
 ## How To Build
 
+To build this run the following command in terminal
+
+Install the latest version of BaseApp
+```
+flatpak -y --user install org.sugarlabs.BaseApp
+```
+
 ```
 git clone https://github.com/flathub/org.sugarlabs.FotoToon.git
 cd org.sugarlabs.FotoToon
-flatpak -y --user install org.gnome.{Platform,Sdk}//44
+flatpak -y --user install org.gnome.{Platform,Sdk}//45
 flatpak-builder --user --force-clean --install build org.sugarlabs.FotoToon.json
 ```
 
