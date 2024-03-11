@@ -3,7 +3,7 @@
     "base": "org.sugarlabs.BaseApp",
     "base-version": "24.04",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "separate-locales": false,
     "command": "sugarapp",
